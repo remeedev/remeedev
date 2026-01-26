@@ -25,7 +25,3 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/archlinux/archlinux-original.svg" width="5%">
 
 </h1>
-
-# Current Project:
-
-[![Sprayz](./designs/sprayz.gif)](https://github.com/remeedev/Spray)
